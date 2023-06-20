@@ -1,2 +1,5 @@
-customquestions.txt
-QuiplashQuestions.jet
+*
+
+!.gitignore
+!Backups of Original Files
+!CustomQuips.py
